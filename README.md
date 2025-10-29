@@ -1,2 +1,2 @@
-# HndM Fashion Recommendation System
+# H&M Fashion Recommendation System
 
